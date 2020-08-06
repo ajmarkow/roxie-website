@@ -1,6 +1,6 @@
 # Roxie's Website
 
-#### A webside coded in HTML for a Goldendoodle from West Bloomfield,MI
+#### A webside coded in HTML for a Goldendoodle from West Bloomfield,MI. =)
 
 #### By _**AJ Markow**_
 
